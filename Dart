@@ -1,2 +1,4 @@
 
 Dart language is used in Flutter Development.
+
+Dart has OOP concepts.
